@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+*{
+    margin: 0;
+}
+
+.hero{
+    background: linear-gradient(320deg, rgba(68,157,165,1) 50%, rgba(26,60,63,1) 100%);
+    overflow: hidden;
+}
+
+h1{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 5.5rem;
+    font-weight: 700;
+    color: #F5F5F5
+}
+
+h2{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: rgb(150, 150, 150)
+}

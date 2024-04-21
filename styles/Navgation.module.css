@@ -1,0 +1,38 @@
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 15vh;
+}
+
+.nav{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav a{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-decoration: none;
+    backdrop-filter: blur(1px);
+}
+
+.nav button{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #FFFFFF;
+    border: none;
+    background: #cbcbcb80;
+    padding: 0.5em 1em;
+    border-radius: 2px;
+    cursor: pointer;
+    backdrop-filter: blur(1px);
+}
+
