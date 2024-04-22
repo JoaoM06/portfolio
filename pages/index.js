@@ -12,6 +12,5 @@ export default function Index(){
         <Main />
     </div>
     <Projects />
-    <script src="https://kit.fontawesome.com/9deb3ef155.js" crossorigin="anonymous"></script>
     </>
 }

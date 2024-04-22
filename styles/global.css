@@ -4,22 +4,26 @@
     margin: 0;
 }
 
-.hero{
+body{
     background: linear-gradient(320deg, rgba(68,157,165,1) 50%, rgba(26,60,63,1) 100%);
+}
+
+.hero{
     overflow: hidden;
 }
 
 h1{
     font-family: "Ubuntu", sans-serif;
-    font-size: 5.5rem;
+    font-size: 5.8rem;
     font-weight: 700;
     color: #F5F5F5
 }
 
 h2{
     font-family: "Ubuntu", sans-serif;
-    font-size: 4rem;
+    font-size: 4.5rem;
     font-weight: 600;
+    color: #FFFFFF;
 }
 
 h3{
