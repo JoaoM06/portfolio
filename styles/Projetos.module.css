@@ -1,0 +1,13 @@
+
+.container{
+    background: linear-gradient(320deg, rgba(68,157,165,1) 50%, rgba(26,60,63,1) 100%);
+    clip-path: polygon(0 0,100% 50px,100% 100%,0 100%);
+    margin-top: -40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container h2{
+    margin-top: 80px;
+}

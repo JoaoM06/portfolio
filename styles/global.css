@@ -4,12 +4,11 @@
     margin: 0;
 }
 
-body{
-    background: linear-gradient(320deg, rgba(68,157,165,1) 50%, rgba(26,60,63,1) 100%);
-}
-
 .hero{
     overflow: hidden;
+    clip-path: polygon(0 0,100% 0,100% 100%,0 calc(100% - 50px));
+    background: linear-gradient(320deg, rgba(68,157,165,1) 50%, rgba(26,60,63,1) 100%);
+    padding-bottom: 50px;
 }
 
 h1{
@@ -34,7 +33,7 @@ h3{
 
 p{
     font-family: "Roboto", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     font-weight: 600;
     color: rgb(150, 150, 150)
 }
