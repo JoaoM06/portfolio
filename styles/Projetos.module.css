@@ -4,10 +4,50 @@
     clip-path: polygon(0 0,100% 50px,100% 100%,0 100%);
     margin-top: -40px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
 }
 
 .container h2{
     margin-top: 80px;
+    margin-bottom: 40px;
+}
+
+.container h3{
+    color: white;
+    margin-bottom: 30px;
+}
+
+.container p{
+    color: #D0D0D0;
+    margin-bottom: 30px;
+}
+
+.container a{
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    color: #D0D0D0;
+}
+
+.card{
+    background-color: #d9d9d941;
+    padding: 70px;
+    border-radius: 15px;
+    width: 50%;
+}
+
+.textContent{
+    width: 60%;
+}
+
+.textContentIcons{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.textContentIcons img{
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
 }
