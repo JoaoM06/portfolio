@@ -41,7 +41,7 @@ export function Main(){
         </article>
         <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ ease: easeInOut, duration: .6}}>
             <aside className={style.rightContent}>
-                <div className={style.imageContainer}><Image src="/Website Creator-bro.svg" alt="Ilustration by storyset" fill /></div>
+                <div className={style.imageContainer}><Image src="images/Website Creator-bro.svg" alt="Ilustration by storyset" fill /></div>
             </aside>
         </motion.div>
     </div>

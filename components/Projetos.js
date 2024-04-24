@@ -11,10 +11,14 @@ export function Projetos(){
                 <p>Landing Page criada para receber o tráfego de uma campanha de pesquisa do Google Ads.</p>
                 <div className={style.textContentIcons}>
                     <img src="/icons/js.png" alt="Logo JavaScript"></img>
-                    <img src="/icons/html5.svg" alt="Logo JavaScript"></img>
-                    <img src="/icons/css3-alt.svg" alt="Logo JavaScript"></img>
+                    <img src="/icons/html-5.png" alt="Logo JavaScript"></img>
+                    <img src="/icons/css-3.png" alt="Logo JavaScript"></img>
                 </div>
                 <a href="https://www.podacarioca.com.br">podacarioca.com.br</a>
+            </div>
+
+            <div className={style.imgContent}>
+                <img src="/images/hero-secttion-poda-carioca.png"></img>
             </div>
         </div>
     </div>

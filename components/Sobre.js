@@ -11,7 +11,7 @@ export function Sobre(){
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum dignissim vulputate. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin non metus placerat, porta turpis at, sollicitudin massa.</p>
             </div>
             <div className={style.image}>
-                <img src="/profile img.png" alt="Foto de perfil" />
+                <img src="images/profile img.png" alt="Foto de perfil" />
             </div>
         </div>
     </div>

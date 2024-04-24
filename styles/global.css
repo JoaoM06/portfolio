@@ -4,6 +4,19 @@
     margin: 0;
 }
 
+body::-webkit-scrollbar{
+    width: 10px;
+}
+
+body::-webkit-scrollbar-track{
+    background: #449DA5;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: #1A3C3F;
+    border-radius: 10px;
+}
+
 .hero{
     overflow: hidden;
     clip-path: polygon(0 0,100% 0,100% 100%,0 calc(100% - 50px));
