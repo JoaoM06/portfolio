@@ -7,7 +7,7 @@ export function Navbar(){
 
     return <motion.nav initial={{ y: -100}} animate={{ y: 0}} transition={{ ease: easeInOut, duration: .6}} className={styles.container}>
         <div className={styles.image}>
-            <Image src="/logo-jma-branca.png" width={80} height={80} alt="Logo" />
+            <Image src="/images/logo-jma-branca.png" width={80} height={80} alt="Logo" />
         </div>
         <div className={styles.nav}>
             <a href="#">Portfolio</a>
