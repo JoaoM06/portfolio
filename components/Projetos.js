@@ -11,8 +11,8 @@ export function Projetos(){
                 <p>Landing Page criada para receber o tráfego de uma campanha de pesquisa do Google Ads.</p>
                 <div className={style.textContentIcons}>
                     <img src="/icons/js.png" alt="Logo JavaScript"></img>
-                    <img src="/icons/html-5.png" alt="Logo JavaScript"></img>
-                    <img src="/icons/css-3.png" alt="Logo JavaScript"></img>
+                    <img src="/icons/html-5.png" alt="Logo HTML"></img>
+                    <img src="/icons/css-3.png" alt="Logo CSS"></img>
                 </div>
                 <a href="https://www.podacarioca.com.br">podacarioca.com.br</a>
             </div>
